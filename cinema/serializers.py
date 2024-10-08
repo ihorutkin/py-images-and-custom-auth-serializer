@@ -1,5 +1,4 @@
 from django.db import transaction
-from django.db import models
 from rest_framework import serializers
 
 from cinema.models import (
